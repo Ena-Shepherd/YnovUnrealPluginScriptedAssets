@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ScriptedAssets",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "EnaShepherd",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ScriptedAssets",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
